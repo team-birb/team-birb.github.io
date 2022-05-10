@@ -30,16 +30,16 @@ dodging city obstacles. As the player spends more time causing chaos in the city
   - Enemies and city obstacles does damage
   - Speed increases the longer the player stays alive
 
-[](images/Enemy.png)
+![](images/Enemy.png)
 
-[](images/Food.png)
+![](images/Food.png)
 
 
 ## Early Game Concept
 
 ![](images/Sage.png)
 
-[](images/Progress.png)
+![](images/Progress.png)
 
 Individual Story Boards
 
@@ -81,6 +81,8 @@ By Karen Wong
 ## Links
 
 [Repository](https://github.com/team-birb/Bird_Game)
+
 [Wiki Page](https://team-birb.github.io/#Meet-Team)
+
 [Trello](https://trello.com/invite/b/M1YDDiWs/75a2598154542b618e58f7ff186155f5/birb)
 
