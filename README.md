@@ -30,6 +30,10 @@ dodging city obstacles. As the player spends more time causing chaos in the city
   - Enemies and city obstacles does damage
   - Speed increases the longer the player stays alive
 
+### Gameplay
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yfb9j53PZ9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ![](images/Enemy.png)
 
 ![](images/Food.png)
