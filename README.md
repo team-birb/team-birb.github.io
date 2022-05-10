@@ -3,9 +3,10 @@
 ![](images/home-screen.png)
 
 ## Table of Contents
-1. [Meet the Team](#Meet-Team)
-2. [About the Game](#About-Game)
-3. [Early Game Concept](#Early-Concept)
+1. [Meet the Team](#meet-the-team)
+2. [About the Game](#about-the-game)
+3. [Early Game Concept](#early-game-concept)
+4. [Links](#links)
 
 
 ## About the Game
@@ -29,15 +30,57 @@ dodging city obstacles. As the player spends more time causing chaos in the city
   - Enemies and city obstacles does damage
   - Speed increases the longer the player stays alive
 
+[](images/Enemy.png)
+
+[](images/Food.png)
+
 
 ## Early Game Concept
 
+![](images/Sage.png)
+
+[](images/Progress.png)
+
+Individual Story Boards
+
+![](images/Sage_M.png)
+By Micah Imakyure
+
+![](images/Sage_R.png)
+By Rainier Javillo
+
+![](images/Sage_K.png)
+By Karen Wong
 
 
-## Meet The Team
-
-  - Karen Wong
+## Meet the Team
     
   - Micah Imakyure
+    - Player Model/Animation
+    - Point System
+    - Bird Poop Interaction
+    - Audio/Sounds
+
+  - Karen Wong
+    - Menu/Ending UI
+    - Menu/Ending Screens
+    - Building Prefabs
+    - Audio/Sounds
+    - Health System
+    - Bird Object Interaction
     
   - Rainier Javillo
+    - Obstacle Prefabs
+    - Food Prefabs
+    - Audio/Sounds
+    - Enemy AI
+    - Food Spawning
+    - Ostacle Spawning
+    - Endless Map Generator
+
+## Links
+
+[Repository](https://github.com/team-birb/Bird_Game)
+[Wiki Page](https://team-birb.github.io/#Meet-Team)
+[Trello](https://trello.com/invite/b/M1YDDiWs/75a2598154542b618e58f7ff186155f5/birb)
+
