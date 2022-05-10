@@ -3,10 +3,10 @@
 ![](images/home-screen.png)
 
 ## Table of Contents
-1. [Meet the Team](#meet-the-team)
-2. [About the Game](#about-the-game)
-3. [Gameplay](#gameplay)
-4. [Early Game Concept](#early-game-concept)
+1. [About the Game](#about-the-game)
+2. [Gameplay](#gameplay)
+3. [Early Game Concept](#early-game-concept)
+4. [Meet the Team](#meet-the-team)
 5. [Links](#links)
 
 
@@ -90,9 +90,9 @@ By Karen Wong
 
 ## Links
 
-[Repository](https://github.com/team-birb/Bird_Game)
+[Repository](https://github.com/team-birb/Pigeon_Attack)
 
-[Wiki Page](https://team-birb.github.io/#Meet-Team)
+[Wiki Page](https://team-birb.github.io/#meet-the-team)
 
 [Trello](https://trello.com/invite/b/M1YDDiWs/75a2598154542b618e58f7ff186155f5/birb)
 
