@@ -96,5 +96,5 @@ By Karen Wong
 
 [Wiki Page](https://team-birb.github.io/#meet-the-team)
 
-[Trello](https://trello.com/invite/b/M1YDDiWs/75a2598154542b618e58f7ff186155f5/birb)
+[Trello](https://trello.com/b/M1YDDiWs/birb)
 
