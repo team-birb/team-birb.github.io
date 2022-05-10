@@ -1,3 +1,8 @@
 title: Pigeon Attack
 description: Created by Team BirB
 theme: jekyll-theme-cayman
+github:
+  is_project_page: true
+  repository_url: https://github.com/team-birb/Bird_Game
+gems:
+  - jekyll-mentions
