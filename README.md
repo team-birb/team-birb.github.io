@@ -37,13 +37,7 @@ dodging city obstacles. As the player spends more time causing chaos in the city
 ## Meet The Team
 
   - Karen Wong
-  
-  ![](images/gc-karen.png)
-  
+    
   - Micah Imakyure
-  
-  ![](images/gc-micah.png)
-  
+    
   - Rainier Javillo
-
-  ![](images/gc-rainier.png)
