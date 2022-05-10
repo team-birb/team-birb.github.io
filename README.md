@@ -1,5 +1,7 @@
 # Pigeon Attack!
 
+![](images/home-screen.png)
+
 ## Table of Contents
 1. [Meet the Team](#Meet-Team)
 2. [About the Game](#About-Game)
