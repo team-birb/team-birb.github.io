@@ -85,8 +85,9 @@ By Karen Wong
     - Audio/Sounds
     - Enemy AI
     - Food Spawning
-    - Ostacle Spawning
-    - Endless Map Generator
+    - Randomized Ostacle Spawning
+    - Obstacle Movement
+    - Procedural Endless Map Generator
 
 ## Links
 
