@@ -1,37 +1,72 @@
-## Welcome to GitHub Pages
+## Pigeon Attack
 
-You can use the [editor on GitHub](https://github.com/team-birb/team-birb.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Hook
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  - Cute Animal 3-D Platformer Collecting Delivery Puzzle Strategy Game. 
+  - Where you deliver as various animals through different environments and obstacles avoiding enemies.
 
-### Markdown
+### World
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  - Every level has a different biome and environment. From tundras, to deserts, and oceans.
+  - You play as a variety of cube based animals.
 
-```markdown
-Syntax highlighted code block
+### Emotion
+  
+  - Cute - Overall feeling.
+  - Suspenseful - Being continually chased by an enemy.
 
-# Header 1
-## Header 2
-### Header 3
+### Suspense to Goals
 
-- Bulleted
-- List
+  - Goal: Deliver package to delivery point passing it on to the next animal.
+  - Use your animal ability or items collected to deliver package safely.
 
-1. Numbered
-2. List
+### Obstacles
+  
+  - Each level will be designed with platforms that the player will need to navigate and enemies that they will need to defeat or avoid.
 
-**Bold** and _Italic_ and `Code` text
+### Interaction
+  
+  - WASD to control the player. 
+  - SPACE to jump.
+  - Q for abilities.
+  - Different abilities will affect the character. 
+  - Suspenseful music as enemy chases.
+  
+### Rules
 
-[Link](url) and ![Image](src)
-```
+  - 3 Item Inventory (Including the main package but not animal special ability).
+    - Main Package
+    - 2 extra Health/Special
+  - Different level > Different Animal > Different Special Ability (Swimming/Flying).
+  - Enemies does damage > You drop the package.
+  - More items > Heavier (Affect Jumping) > Slower (Affect walk speed).
+  - Items can be carried and swap between levels.
+  - 1 big enemy chases you after you grab the main package.
+  - Smaller enemies patrolling, flying across the screen. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Rewards
+  
+  - Collect items in each level.
+  - Animal Dance Party
 
-### Jekyll Themes
+### What happens in the next level?
+  
+  - The next level is a different biome.
+  - You become a different animal.
+  - The enemies become stronger and deal more damage.
+  - Different biome = Different Items
+  - The package is collected closer to the beginning, so the chaser starts chasing earlier.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/team-birb/team-birb.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Meet The Team
 
-### Support or Contact
+  - Karen Wong
+  
+  ![](images/gc-karen.png)
+  
+  - Micah Imakyure
+  
+  ![](images/gc-micah.png)
+  
+  - Rainier Javillo
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  ![](images/gc-rainier.png)
