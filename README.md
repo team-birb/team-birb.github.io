@@ -86,7 +86,7 @@ By Karen Wong
     - Audio/Sounds
     - Enemy/Turret AI
     - Randomized Food Spawning
-    - Randomized Ostacle Spawning
+    - Randomized Obstacle Spawning
     - Obstacle Movement
     - Procedural Endless Map Generator
 
