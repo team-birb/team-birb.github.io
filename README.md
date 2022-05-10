@@ -82,9 +82,10 @@ By Karen Wong
   - Rainier Javillo
     - Obstacle Prefabs
     - Food Prefabs
+    - Decoration Prefabs
     - Audio/Sounds
-    - Enemy AI
-    - Food Spawning
+    - Enemy/Turret AI
+    - Randomized Food Spawning
     - Randomized Ostacle Spawning
     - Obstacle Movement
     - Procedural Endless Map Generator
