@@ -6,4 +6,3 @@ github:
   repository_url: https://github.com/team-birb/Pigeon_Attack
 gems:
   - jekyll-mentions
-show_downloads: true
