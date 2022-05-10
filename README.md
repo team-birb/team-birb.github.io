@@ -1,63 +1,38 @@
-## Pigeon Attack
+# Pigeon Attack!
 
-### Hook
+## Table of Contents
+1. [Meet the Team](#Meet-Team)
+2. [About the Game](#About-Game)
+3. [Early Game Concept](#Early-Concept)
 
-  - Cute Animal 3-D Platformer Collecting Delivery Puzzle Strategy Game. 
-  - Where you deliver as various animals through different environments and obstacles avoiding enemies.
 
-### World
+## About the Game
 
-  - Every level has a different biome and environment. From tundras, to deserts, and oceans.
-  - You play as a variety of cube based animals.
+### Controls 
 
-### Emotion
-  
-  - Cute - Overall feeling.
-  - Suspenseful - Being continually chased by an enemy.
+  - WASD to control the pigeon 
+  - SPACE to poop
+  - Ground: SPACE to fly again
 
-### Suspense to Goals
+### Synopsis 
 
-  - Goal: Deliver package to delivery point passing it on to the next animal.
-  - Use your animal ability or items collected to deliver package safely.
+Playing as a pigeon, the goal is to cause chaos throughout the city by pooping on various objects in the city. 
+In this endless runner game, the player must collect food items on the ground to generate poop and regenerate health while 
+dodging city obstacles. As the player spends more time causing chaos in the city, things may speed up.
 
-### Obstacles
-  
-  - Each level will be designed with platforms that the player will need to navigate and enemies that they will need to defeat or avoid.
-
-### Interaction
-  
-  - WASD to control the player. 
-  - SPACE to jump.
-  - Q for abilities.
-  - Different abilities will affect the character. 
-  - Suspenseful music as enemy chases.
-  
 ### Rules
 
-  - 3 Item Inventory (Including the main package but not animal special ability).
-    - Main Package
-    - 2 extra Health/Special
-  - Different level > Different Animal > Different Special Ability (Swimming/Flying).
-  - Enemies does damage > You drop the package.
-  - More items > Heavier (Affect Jumping) > Slower (Affect walk speed).
-  - Items can be carried and swap between levels.
-  - 1 big enemy chases you after you grab the main package.
-  - Smaller enemies patrolling, flying across the screen. 
+  - Collect food item to generate poop and health
+  - Poop on various city objects to increase chaos meter
+  - Enemies and city obstacles does damage
+  - Speed increases the longer the player stays alive
 
-### Rewards
-  
-  - Collect items in each level.
-  - Animal Dance Party
 
-### What happens in the next level?
-  
-  - The next level is a different biome.
-  - You become a different animal.
-  - The enemies become stronger and deal more damage.
-  - Different biome = Different Items
-  - The package is collected closer to the beginning, so the chaser starts chasing earlier.
+## Early Game Concept
 
-### Meet The Team
+
+
+## Meet The Team
 
   - Karen Wong
   
