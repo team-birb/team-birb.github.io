@@ -5,8 +5,9 @@
 ## Table of Contents
 1. [Meet the Team](#meet-the-team)
 2. [About the Game](#about-the-game)
-3. [Early Game Concept](#early-game-concept)
-4. [Links](#links)
+3. [Gameplay](#gameplay)
+4. [Early Game Concept](#early-game-concept)
+5. [Links](#links)
 
 
 ## About the Game
@@ -34,9 +35,15 @@ dodging city obstacles. As the player spends more time causing chaos in the city
 
 ![](images/Food.png)
 
-### Gameplay
+## Gameplay
+
+### Watch
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Yfb9j53PZ9M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Play on SIMMER.io
+
+<iframe src="https://i.simmer.io/@rainllo/pigeon-attack" style="width:960px;height:600px"></iframe>
 
 ## Early Game Concept
 
