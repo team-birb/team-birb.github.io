@@ -48,6 +48,8 @@ dodging city obstacles. As the player spends more time causing chaos in the city
 
 ## Midsemester Game Demo
 
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vg7zY40sELc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Early Game Concept
 
 ![](images/Sage.png)
