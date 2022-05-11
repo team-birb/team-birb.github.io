@@ -5,9 +5,10 @@
 ## Table of Contents
 1. [About the Game](#about-the-game)
 2. [Gameplay](#gameplay)
-3. [Early Game Concept](#early-game-concept)
-4. [Meet the Team](#meet-the-team)
-5. [Links](#links)
+3. [Midsemester Game Demo](#midsemester-game-demo)
+4. [Early Game Concept](#early-game-concept)
+5. [Meet the Team](#meet-the-team)
+6. [Links](#links)
 
 
 ## About the Game
@@ -45,6 +46,10 @@ dodging city obstacles. As the player spends more time causing chaos in the city
 
 <iframe src="https://i.simmer.io/@rainllo/pigeon-attack" style="width:960px;height:600px"></iframe>
 
+## Midsemester Game Demo
+
+![](Progress_Video.mp4)
+
 ## Early Game Concept
 
 ![](images/Sage.png)
@@ -61,7 +66,6 @@ By Rainier Javillo
 
 ![](images/Sage_K.png)
 By Karen Wong
-
 
 ## Meet the Team
     
