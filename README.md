@@ -56,20 +56,20 @@ ___
 
 ### Pigeon
 
-![](images/bird-1.png =250x250) ![](images/bird-2.png =250x250)
+![](images/bird-1.png) ![](images/bird-2.png)
 
 ### Food
 
-![](images/food-1.png =250x250) ![](images/food-2.png =250x250)
+![](images/food-1.png) ![](images/food-2.png)
 
 ### Obstacles
 
-![](images/cab.png =250x250) ![](images/cones.png =250x250) ![](images/dumpster.png =250x250)
-![](images/plane.png =250x250) ![](images/trains.png =250x250)
+![](images/cab.png) ![](images/cones.png) ![](images/dumpster.png)
+![](images/plane.png) ![](images/trains.png)
 
 ### Background
 
-![](images/street-1.png =250x250) ![](images/street-2.png =250x250) 
+![](images/street-1.png) ![](images/street-2.png) 
 
 ___
 
