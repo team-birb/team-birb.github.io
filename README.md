@@ -7,9 +7,10 @@
 2. [Gameplay](#gameplay)
 3. [Midsemester Game Demo](#midsemester-game-demo)
 4. [Early Game Concept](#early-game-concept)
-5. [Meet the Team](#meet-the-team)
-6. [Links](#links)
-
+5. [Assets](#assets)
+6. [Meet the Team](#meet-the-team)
+7. [Links](#links)
+___
 
 ## About the Game
 
@@ -32,9 +33,8 @@ dodging city obstacles. As the player spends more time causing chaos in the city
   - Enemies and city obstacles does damage
   - Speed increases the longer the player stays alive
 
-![](images/Enemy.png)
+___
 
-![](images/Food.png)
 
 ## Gameplay
 
@@ -46,9 +46,32 @@ dodging city obstacles. As the player spends more time causing chaos in the city
 
 <iframe src="https://i.simmer.io/@rainllo/pigeon-attack" style="width:960px;height:600px"></iframe>
 
+___
+
 ## Midsemester Game Demo
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Vg7zY40sELc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## Assets
+
+### Pigeon
+
+![](images/bird-1.png =250x250) ![](images/bird-2.png =250x250)
+
+### Food
+
+![](images/food-1.png =250x250) ![](images/food-2.png =250x250)
+
+### Obstacles
+
+![](images/cab.png =250x250) ![](images/cones.png =250x250) ![](images/dumpster.png =250x250)
+![](images/plane.png =250x250) ![](images/trains.png =250x250)
+
+### Background
+
+![](images/street-1.png =250x250) ![](images/street-2.png =250x250) 
+
+___
 
 ## Early Game Concept
 
@@ -66,6 +89,8 @@ By Rainier Javillo
 
 ![](images/Sage_K.png)
 By Karen Wong
+
+___
 
 ## Meet the Team
     
@@ -93,6 +118,8 @@ By Karen Wong
     - Randomized Obstacle Spawning
     - Obstacle Movement
     - Procedural Endless Map Generator
+
+___
 
 ## Links
 
